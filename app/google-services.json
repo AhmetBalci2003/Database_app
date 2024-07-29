@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563145756622",
+    "project_id": "depo-yonetim-deneme",
+    "storage_bucket": "depo-yonetim-deneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563145756622:android:c11140118ce34d5881259f",
+        "android_client_info": {
+          "package_name": "com.example.database_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjS25oJAG8ldhK0KJ5WlSwox9O67s-m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
